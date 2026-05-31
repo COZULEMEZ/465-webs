@@ -1,0 +1,28 @@
+{
+  "name": "465 Legal Rights",
+  "short_name": "465",
+  "description": "Uluslararası dijital eser tescili ve fikri mülkiyet koruma kurumu.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "tr-TR",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-256.png",
+      "sizes": "256x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x288",
+      "type": "image/png"
+    }
+  ]
+}

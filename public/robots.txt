@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://465.com.tr/sitemap.xml
